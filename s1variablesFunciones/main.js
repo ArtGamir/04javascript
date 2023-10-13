@@ -3,14 +3,14 @@ console.log("hola koders")
 let a=5;
 let b=3;
 
-let result1 = a+b
-let result2 = a-b
-let result3 = a/b
-let result4 = a*b
-let result5 = a%b
+let addition = a+b
+let rest = a-b
+let division = a/b
+let multiplication = a*b
+let mod = a%b
 
-console.log(result1)
-console.log(result2)
-console.log(result3)
-console.log(result4)
-console.log(result5)
+console.log(addition)
+console.log(rest)
+console.log(division)
+console.log(multiplication)
+console.log(mod)
