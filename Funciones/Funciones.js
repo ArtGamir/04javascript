@@ -55,10 +55,18 @@ function multiplicaDosNumeros (numero1, numero2) {
 
 /*Función Mayor de dos números*/
 
-function mayorDeDosNumeros (suma,resta) {
-
-
+function mayorDeDosNumeros (numero1, numero2) {
+  if (numero1 > numero2){
+    return `${numero1}es el mayor`
+  } else if (numero1 < numero2){
+    return `${numero2} es el mayor`
+  } else {
+    return `los números son iguales`
+  }
 }
 
+let elMayorEs = mayorDeDosNumeros (28,45)
+     
+     console.log(elMayorEs)
 
-!=
+/*Función Par o Non*/
