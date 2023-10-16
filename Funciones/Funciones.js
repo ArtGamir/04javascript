@@ -70,3 +70,16 @@ let elMayorEs = mayorDeDosNumeros (28,45)
      console.log(elMayorEs)
 
 /*Función Par o Non*/
+
+function numeroParImpar (numero) {
+    let mod = numero % 2
+        if (mod === 0) {
+          return "Par"
+        } else { 
+          return "Non"
+        }
+}
+
+let parNon = numeroParImpar (80)
+
+console.log (parNon)
