@@ -1,0 +1,109 @@
+{
+    "usersr": [
+        {
+            "name": "Brayden Jimenez",
+            "email": "brayden.jimenez@example.com",
+            "password": "boulder",
+            "picture": "https://randomuser.me/api/portraits/men/48.jpg",
+            "token": "Abc!12$#3Tu"
+        },
+        {
+            "name": "Landon Barnett",
+            "email": "landon.barnett@example.com",
+            "password": "dance",
+            "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+            "token": "D4Ef@GhI12"
+        },
+        {
+            "name": "Heather Fields",
+            "email": "heather.fields@example.com",
+            "password": "cheech",
+            "picture": "https://randomuser.me/api/portraits/women/41.jpg",
+            "token": "JklMnoPqR@"
+        },
+        {
+            "name": "Violet Kelley",
+            "email": "violet.kelley@example.com",
+            "password": "bravo",
+            "picture": "https://randomuser.me/api/portraits/women/15.jpg",
+            "token": "567YzAbCde"
+        },
+        {
+            "name": "Claire Rivera",
+            "email": "claire.rivera@example.com",
+            "password": "nope",
+            "picture": "https://randomuser.me/api/portraits/women/37.jpg",
+            "token": "F8gH9IjK!$"
+        },
+        {
+            "name": "Wesley Simmons",
+            "email": "wesley.simmons@example.com",
+            "password": "crusher",
+            "picture": "https://randomuser.me/api/portraits/men/30.jpg",
+            "token": "LmNoPqRst"
+        },
+        {
+            "name": "Darren Vasquez",
+            "email": "darren.vasquez@example.com",
+            "password": "bruno",
+            "picture": "https://randomuser.me/api/portraits/men/37.jpg",
+            "token": "UvW#XyZ12"
+        },
+        {
+            "name": "Sandra Elliott",
+            "email": "sandra.elliott@example.com",
+            "password": "maserati",
+            "picture": "https://randomuser.me/api/portraits/women/4.jpg",
+            "token": "34&56*78+9"
+        },
+        {
+            "name": "Daryl Gray",
+            "email": "daryl.gray@example.com",
+            "password": "whatwhat",
+            "picture": "https://randomuser.me/api/portraits/men/66.jpg",
+            "token": "0=pQr/Stu"
+        },
+        {
+            "name": "Owen Graham",
+            "email": "owen.graham@example.com",
+            "password": "orchard",
+            "picture": "https://randomuser.me/api/portraits/men/80.jpg",
+            "token": "%vwX&@45*"
+        },
+        {
+            "name": "Dawn Martinez",
+            "email": "dawn.martinez@example.com",
+            "password": "bunny",
+            "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+            "token": "aB#cdEfGhI"
+        },
+        {
+            "name": "Arianna Morrison",
+            "email": "arianna.morrison@example.com",
+            "password": "long",
+            "picture": "https://randomuser.me/api/portraits/women/61.jpg",
+            "token": "JklM&nOpQr"
+        },
+        {
+            "name": "Robin Henderson",
+            "email": "robin.henderson@example.com",
+            "password": "tinkerbe",
+            "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+            "token": "Stu@1234UV"
+        },
+        {
+            "name": "Beth Lowe",
+            "email": "beth.lowe@example.com",
+            "password": "lola",
+            "picture": "https://randomuser.me/api/portraits/women/47.jpg",
+            "token": "WxYzA*bcDE"
+        },
+        {
+            "name": "Madison Smith",
+            "email": "madison.smith@example.com",
+            "password": "herewego",
+            "picture": "https://randomuser.me/api/portraits/women/31.jpg",
+            "token": "FghIjKlMn!"
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "posts": [
+        {
+            "time": "07/11/2023 15:14:46",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--KVLDLYiI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i7l419duj2gjyhf0lve7.png",
+            "author": "Brayden Jimenez",
+            "picture": "https://randomuser.me/api/portraits/men/48.jpg",
+            "title": "Tricksters of JavaScript",
+            "rate": "4",
+            "tags": "#webdev #javascript #programming #beginners",
+            "body": "I use this word `Tricksters` because, when I was learning JavaScript and I learn it watching YT videos, Udemy courses, and reading articles. There was something that was not explicitly taught or explained in the courses. And these things are used by developers a lot. So I made this article to help the beginners in the JavaScript's ad those who have just finished their basics of JavaScript to feel more confident in their knowledge. And these will surely help you tackle the gaps that come across when doing a follow along projects from YT or other sources. So lets go!",
+            "comments": [
+                {
+                "picture": "https://randomuser.me/api/portraits/women/31.jpg",
+                "name": "Madison Smith",
+                "body": "Does Jonas have some more content? Would like to check him out."
+                },
+                {
+                "picture": "https://randomuser.me/api/portraits/women/47.jpg",
+                "name": "Beth Lowe",
+                "body": "This is really helpful for me. Thanks"
+                },
+                {
+                "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+                "name": "Robin Henderson",
+                "body": "Never seen this many comments deleted before 🤔, makes me wary of the content."
+                } ]
+        },
+
+        {
+            "time": "07/11/2023 15:14:46",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--x7Q9rOyU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkgit2p1af10powp5uw3.png",
+            "author": "Landon Barnett",
+            "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+            "title": "Does an OpenAi outage have an impact on your workflow?",
+            "rate": "5",
+            "tags": "#hacktoberfest23 #ai #chatgpt #productivity",
+            "body": "Curious how engrained ChatGPT is into anybody's workflow these days, depending on how you do or do not make use of these tools.",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+                "name": "Robin Henderson",
+                "body": "Biggggg one."
+                },
+                {
+                "picture": "https://randomuser.me/api/portraits/women/61.jpg",
+                "name": "Arianna Morrison",
+                "body": "I guess I was lucky enough that I didn't run into a serious enough outage, yet, so I don't know for sure."
+                } ]
+        },
+
+        {
+            "time": "07/11/2023 16:05:32",
+            "cover": "",
+            "author": "Heather Fields",
+            "picture": "https://randomuser.me/api/portraits/women/41.jpg",
+            "title": "Tree Shaking in JavaScript: Boost Web Performance",
+            "rate": "1",
+            "tags": "#hacktoberfest23 #programming #react #learning",
+            "body": "Exciting News! 🌟 Just published my latest article on Medium, titled `Tree Shaking in JavaScript Applications: Boosting Performance with Dead-Code Elimination.` 🚀 Dive into the world of web optimization and discover how tree shaking can transform your JavaScript applications.",
+            "comments": 
+                []
+        },
+
+        {
+            "time": "07/11/2023 16:43:18",
+            "cover": "",
+            "author": "Violet Kelley",
+            "picture": "https://randomuser.me/api/portraits/women/15.jpg",
+            "title": "11 JavaScript Tricks You Probably Didn't Know About",
+            "rate": "5",
+            "tags": "#hacktoberfest23 #javascript #webdev",
+            "body": "JavaScript is a versatile language with a myriad of features and quirks. While many developers are familiar with the basics, there are some lesser-known tricks that can enhance your coding prowess. In this article, we'll explore 11 JavaScript tricks that might surprise you and prove useful in your development journey.",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+                "name": "Dawn Martinez",
+                "body": "nice list of tips! 😃 i always forget about the + to parse a string to a number lol"
+                    } ]
+        },
+
+        {
+            "time": "08/11/2023 01:22:55",
+            "image": "",
+            "author": "Claire Rivera",
+            "picture": "https://randomuser.me/api/portraits/women/37.jpg",
+            "title": "🚀 10 Projects to skyrocket your coding skills",
+            "rate": "4",
+            "tags": "#hacktoberfest23 #javascript #react #beginners",
+            "body": "Whenever you're thinking about getting better at coding, there are plenty of options to do so. You can read dev articles or go through an endless loop of tutorials, courses, videos, and books but the actual key is in transitioning from learning to hands-on coding, and trust me, there is no better way than applying all the concepts you've learned so far via project-based learning.",
+            "comments": 
+                []
+        },
+
+        {
+            "time": "08/11/2023 06:58:37",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--bDTH5ohm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qumno7wnip4y64jwqgn2.png",
+            "author": "Wesley Simmons",
+            "picture": "https://randomuser.me/api/portraits/men/30.jpg",
+            "title": "Tips and Strategies for Writing Clean and Maintainable JSX Code",
+            "rate": "2",
+            "tags": "#hacktoberfest23 #react #javascript #programming",
+            "body": "Writing clean and maintainable code is crucial for long-term project success, especially when working with JSX in React applications. Below are some essential tips and strategies, accompanied by code examples, to help you write better JSX.",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/men/80.jpg",
+                "name": "Owen Graham",
+                "body": "Adding to #7: Since we use Tailwind for CSS and the className string can get quite long, I started abstracting it out to a classes object to keep the JSX code more concise. "
+                },
+                {
+                "picture": "https://randomuser.me/api/portraits/men/66.jpg",
+                "name": "Daryl Gray",
+                "body": "OMG. Why not just use CSS in the first place?"
+                },
+                {
+                "picture": "https://randomuser.me/api/portraits/women/4.jpg",
+                "name": "Sandra Elliott",
+                "body": "Clean and Maintainable JSX Code feels very much like an oxymoron"
+                } ]
+        },
+
+        {
+            "time": "08/11/2023 09:36:14",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--RAL1F7TR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qande7lgyoc9vs49a1tv.png",
+            "author": "Darren Vasquez",
+            "picture": "https://randomuser.me/api/portraits/men/37.jpg",
+            "title": "How To Build AI Chatbots Using React JS in Minutes",
+            "rate": "1",
+            "tags": "#watercooler #openai #javascript #news",
+            "body": "Conversational AI is taking off, and chatbots powered by large language models (LLMs) like ChatGPT are rapidly becoming a must-have for many apps and websites. As a React developer, you want a simple way to build a great chat interface backed by these incredible LLMs. That’s where NLUX, — the open-source Javascript / React JS library, comes in.",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/men/30.jpg",
+                "name": "Wesley Simmons",
+                "body": "Very nice! Sounds like a cool project, Salmen. Appreciate you sharing! Heads up that we have a tag called #showdev that you can use if you want to show off projects you've created. You don't have to use this one, it's just a suggestion. 🙂 Hope you keep enjoying DEV, and looking forward to hearing more about NLUX."
+                },
+                {
+                "picture": "https://randomuser.me/api/portraits/women/37.jpg",
+                "name": "Claire Rivera",
+                "body": "Thanks for the support🙌 Sure I'll include #showdev in future posts 👌"
+                } ]
+        },
+
+        {
+            "time": "08/11/2023 12:17:20",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmogVTo---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/khjslqy26ip4jvharb9w.png",
+            "author": "Sandra Elliott",
+            "picture": "https://randomuser.me/api/portraits/women/4.jpg",
+            "title": "💻 Web Development Resources #173",
+            "rate": "4",
+            "tags": "#watercooler #resources #javascript #react",
+            "body": "If you have any feedback, or you want to share tools and resources for the next issue - just comment below :)",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/women/15.jpg",
+                "name": "Violet Kelley",
+                "body": "Very nice"
+                } ]
+        },
+
+        {
+            "time": "08/11/2023 15:08:09",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--pxtddciO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncu221qmf33myoo4k2kk.png",
+            "author": "Daryl Gray",
+            "picture": "https://randomuser.me/api/portraits/men/66.jpg",
+            "title": "Interpreting Loan Predictions with TrustyAI: Part 3",
+            "rate": "1",
+            "tags": "#watercooler #explainableai #python #ai",
+            "body": "Implementing Visualizations, Hello again, dear readers! In our previous sessions, we understood LIME explanations in TrustyAI and implemented a simple linear model to explain loan approvals. While seeing the saliency values of each feature is insightful, a graphical representation can offer a clearer understanding of model decisions. Let's delve deeper!",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/women/41.jpg",
+                "name": "Heather Fields",
+                "body": "Super cool stuff, Sohini! Appreciate you sharing this series on TrustyAI... it seems like a really cool app you're building. 🙌"
+                } ]
+        },
+
+        {
+            "time": "08/11/2023 16:00:00",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--leeT3D1D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c5hy8yj8hxtrr5t8sogo.png",
+            "author": "Owen Graham",
+            "picture": "https://randomuser.me/api/portraits/men/80.jpg",
+            "title": "Anatomy of a Web Component: the Low-level Basics",
+            "rate": "3",
+            "tags": "#watercooler #javascript #html",
+            "body": "I've been learning about web components from Rob Eisenberg's Web Component Engineering course, and thought I'd crystallise some of my learning by writing about it. Here, therefore, is a very basic web component that demonstrates some fundamental characteristics of web components that we'll build on in the future (I'm only a few lessons in, and there's a LOT to go). What we're going to do here is to create a my-counter element, which is really very simple. All it does is render the value contained in the count property into the DOM.",
+            "comments": 
+                 []
+        },
+
+        {
+            "time": "08/11/2023 16:00:01",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--cByuaO_Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ewk9h4ke96b91fnxshwu.jpeg",
+            "author": "Dawn Martinez",
+            "picture": "https://randomuser.me/api/portraits/women/8.jpg",
+            "title": "Mastering Booleans with is.true and is.not_true in JavaScript: Your Guide to True Values",
+            "rate": "1",
+            "tags": "#watercooler #javascript #coding #security",
+            "body": "JavaScript is like a grand adventure filled with hidden treasures, and one of the most sought-after gems is the boolean value true. This value is at the heart of decision-making in your code. But how can you be sure that a value is truly true, or conversely, make sure it's anything but true? That's where the is.true and is.not_true methods from the 'thiis' package come into play. In this article, we'll take you on a journey to explore these powerful tools and their potential in JavaScript.",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+                "name": "Landon Barnett",
+                "body": "Telegram channel: t.me/thiis_pkg NPM: npmjs.com/thiis"
+                } ]
+        },
+
+        {
+            "time": "08/11/2023 16:25:47",
+            "cover": "",
+            "author": "Arianna Morrison",
+            "picture": "https://randomuser.me/api/portraits/women/61.jpg",
+            "title": "How we used Neural network, Replicate.com, and WebGL to generate photorealistic 3D avatars for the GitNation portal`s users",
+            "rate": "1",
+            "tags": "#ai #discuss #javascript",
+            "body": "Avatars are an integral part of any social portal. It is important for people to see the person they are interacting with, photography creates a personal connection and enhances the user experience. But what if we go further and use AI and WebGL to turn every user photo into an interactive 3D avatar?",
+            "comments": 
+                []
+        },
+
+        {
+            "time": "08/11/2023 17:43:56",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--K-7YSnUA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gmxfncal857ctk3ea83b.png",
+            "author": "Robin Henderson",
+            "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+            "title": "Set and Map in JavaScript: A Close Look",
+            "rate": "4",
+            "tags": "#discuss #set #map #webdev",
+            "body": "In the world of JavaScript, there are several ways to handle and organize data, with arrays and objects being the most popular. However, ES6 (the sixth edition of the ECMAScript standard) introduced two useful data structures: Set and Map. These structures offer unique advantages that can be indispensable in specific scenarios.",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/men/48.jpg",
+                "name": "Brayden Jimenez",
+                "body": "Had no idea about Set and Map! Thanks."
+                },
+                {
+                "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+                "name": "Landon Barnett",
+                "body": "Thanks for your feedback. 🎉"
+                } ]
+        },
+
+        {
+            "time": "09/11/2023 02:10:29",
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--dy6ivsVe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9od5ipf1b0g1p3akslbm.jpg",
+            "author": "Beth Lowe",
+            "picture": "https://randomuser.me/api/portraits/women/47.jpg",
+            "title": "Effortless Data Fetching and Rendering with Redux Toolkit",
+            "rate": "1",
+            "tags": "#discuss #react #javascript #webdev",
+            "body": "What could be more fun than getting to know our tools by rolling up our sleeves and using them? So, come on—let’s not spend another second! Let’s jump in and start playing around with the code together.",
+            "First": "let's outline the endpoints we'll be working with. Imagine these endpoints are crafted in a backend language (for instance, I've set up an Express API for this purpose).",
+            "comments": 
+                []
+        },
+
+        {
+            "time": "09/11/2023 07:53:18",
+            "cover": "",
+            "author": "Madison Smith",
+            "picture": "https://randomuser.me/api/portraits/women/31.jpg",
+            "title": "Building Node.js C++ Addon for Document Edge Detection and Rectification",
+            "rate": "1",
+            "tags": "#discuss #javascript #cpp #programming",
+            "body": "A Node.js C++ addon is a module written in C++ that can be loaded into Node.js, used to extend Node.js capabilities by allowing developers to implement functionality in C++. This article will guide you through building a Node.js C++ addon for document edge detection and rectification. The addon relies on the Dynamsoft Document Normalizer C++ SDK, which offers APIs for detecting document edges and normalizing the document using the identified quadrilaterals.",
+            "comments": 
+                []
+        },
+
+        {
+            "time": "09/11/2023 11:31:42",
+            "cover": "",
+            "author": "Brayden Jimenez",
+            "picture": "https://randomuser.me/api/portraits/men/48.jpg",
+            "title": "What’s new in Novu 0.21?",
+            "rate": "4",
+            "tags": "#discuss #novu #opensource #javascript",
+            "body": "TL;DR: All you need to know about the latest Novu 0.21.0 release. Removal of the multi-providers feature flag, @novu/notification-center-angular package now supports Angular projects of version 15 and higher, new Actor system variables, Brand Logo Management, Organization APIs, and more.",
+            "comments": 
+                [ {
+                "picture": "https://randomuser.me/api/portraits/women/41.jpg",
+                "name": "Heather Fields",
+                "body": "Fantastic as always!"
+                } ]
+        }
+    ]
+}
